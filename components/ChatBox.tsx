@@ -67,3 +67,4 @@ export default function ChatBox({ user }) {
     </div>
   );
 }
+import EmojiPicker from "./EmojiPicker";
